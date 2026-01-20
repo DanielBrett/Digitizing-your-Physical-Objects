@@ -1,4 +1,4 @@
-# Digitizing Your Physical Objects
+This guide briefly outlines the workflow of scanning an object with Kiri Engine then hosting it on Sketchfab.
 
 ## Scanning your object
 Kiri Engine
